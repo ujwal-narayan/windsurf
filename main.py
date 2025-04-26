@@ -400,7 +400,7 @@ async def main():
         
         # Run both tasks concurrently
         await asyncio.gather(
-            # process_chats(),
+            process_chats(),
             handle_user_input()
         )
 
