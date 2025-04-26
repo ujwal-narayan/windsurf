@@ -51,12 +51,12 @@ This project leverages several advanced technologies:
    export OPENAI_API_KEY="your-openai-api-key"
    ```
 
-4. Install WhatsApp MCP server:
+4. Install WhatsApp MCP server: https://github.com/lharries/whatsapp-mcp
    ```
 
-5. Install Google Calendar MCP server: 
+5. Install Google Calendar MCP server: https://github.com/markelaugust74/mcp-google-calendar
 
-6. Install Google Maps MCP Server: 
+6. Install Google Maps MCP Server:  https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
 
 7. Change the paths in main.py to reflect the new path.
 ## 🚀 Usage
